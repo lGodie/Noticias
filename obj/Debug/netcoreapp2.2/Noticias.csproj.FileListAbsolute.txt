@@ -1,0 +1,14 @@
+C:\Projects\Noticias\bin\Debug\netcoreapp2.2\Noticias.deps.json
+C:\Projects\Noticias\bin\Debug\netcoreapp2.2\Noticias.runtimeconfig.json
+C:\Projects\Noticias\bin\Debug\netcoreapp2.2\Noticias.runtimeconfig.dev.json
+C:\Projects\Noticias\bin\Debug\netcoreapp2.2\Noticias.dll
+C:\Projects\Noticias\bin\Debug\netcoreapp2.2\Noticias.pdb
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.csprojAssemblyReference.cache
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.csproj.CoreCompileInputs.cache
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.RazorAssemblyInfo.cache
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.RazorAssemblyInfo.cs
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.AssemblyInfoInputs.cache
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.AssemblyInfo.cs
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.RazorTargetAssemblyInfo.cache
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.dll
+C:\Projects\Noticias\obj\Debug\netcoreapp2.2\Noticias.pdb
